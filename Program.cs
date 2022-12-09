@@ -9,7 +9,7 @@ Random random = new Random();
 
 for (int i = 0; 1 < 10; i++)
 {
-    Console.WriteLine("Ronde "+(i+1));
+    Console.WriteLine("Round "+(i+1));
     Console.WriteLine("Tekan Enter untuk mulai");
     Console.ReadKey();
 
